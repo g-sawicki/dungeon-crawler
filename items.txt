@@ -1,0 +1,3 @@
+123,Gold:30000,Helmet:10,Chestplate:10,Leggings:10,Boots:10,Sword:10
+321,Gold:100,Helmet:1,Chestplate:1,Leggings:1,Boots:1,Sword:1
+shop,Gold:100000,Helmet:1,Chestplate:1,Leggings:1,Boots:1,Sword:1

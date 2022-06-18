@@ -1,0 +1,5 @@
+Helmet,250
+Chestplate,400
+Leggings,350
+Boots,200
+Sword,100

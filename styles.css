@@ -1,0 +1,53 @@
+.bell {
+display: inline-block;
+position: relative;
+background-color: white;
+width: 150px;
+height: auto;
+text-align: center;
+padding-right: 20px;
+}
+
+.bell img {
+    width: 150px;
+    height: auto;
+}
+
+.bellnumbers {
+font-size:20px;
+width:48px;
+line-height: 36px;
+text-align: center;
+color:white;
+background-color: red;
+z-index: 2;
+position: absolute;
+}
+
+.health {
+border-radius: 3px;
+bottom: 0px;
+left: 102px;
+}
+
+.damage {
+border-radius: 3px;
+bottom: 0px;
+left: 0px;
+}
+
+.Player {
+background-color:blue;
+}
+
+.Goblin {
+background-color:green; 
+}
+
+.Orc {
+background-color:brown;
+}
+
+.Boss {
+background-color:black;
+}
